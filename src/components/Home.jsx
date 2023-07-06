@@ -15,14 +15,14 @@ function Home() {
     <img src={vg} alt="Graphics" />
     <div>
         <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem obcaecati mollitia soluta, est voluptate nemo tempora numquam. Id cumque ad quibusdam dolore, corrupti recusandae adipisci quae? Eos dignissimos harum natus quidem eius repellendus aut?
+        At techieTechnica, we are passionate about technology and dedicated to providing innovative solutions to everyday tech challenges. We understand that in today's fast-paced digital world, technology plays a vital role in our lives, both personally and professionally. That's why we strive to be your go-to destination for all things tech-related.
         </p>
     </div>
 </div>
        <div className="home3" id="about" >
         <div>
     <h1>Who we are?</h1>
-    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptates illum quia velit officia magni expedita veniam dolores numquam quod iusto pariatur quam eius corporis, molestiae inventore sit laborum quas aliquid nisi nobis porro beatae error impedit? Explicabo in aliquid accusantium? Esse ipsum porro odit architecto delectus? Quae iste, facilis minima praesentium, culpa et ad doloribus, ab eveniet veritatis enim.</p>
+    <p>We are a team of tech enthusiasts, developers, and problem solvers who love exploring the ever-evolving world of technology. Our goal is to simplify complex concepts and make them accessible to everyone. Whether you're a tech-savvy individual looking for the latest updates or a beginner seeking guidance, we're here to help.</p>
     </div>
 </div>
 <div className=" home4 "  id="brands">
